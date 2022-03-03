@@ -1,6 +1,6 @@
 permalink: pretty
 
-url: "https://wipfli.github.io/maplibre.github.io/"
+url: "https://wipfli.github.io/"
 baseurl: ""
 
 maps:
@@ -8,7 +8,7 @@ maps:
 
 sass:
   style: :compressed
-  sass_dir: style/
+  sass_dir: maplibre.github.io/style/
 
 exclude:
   - "style/bootstrap/site"
